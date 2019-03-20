@@ -276,5 +276,5 @@ The same approach can be used to solve this problem. However, certain complicati
 A more ambitious approach would be to train a neural network to detect a closed loop and calculate the depth of each element automatically. But this will require
 a large labeled data set and considerable amount of time to accomplish the task with good test set accuracy.
 
-I would like to thank the Human Resource team and the technical team at Avantari Tech. for the oppurtunity. I look forward to being on your team and working with you!
+-Syed M. Peeran
 """
